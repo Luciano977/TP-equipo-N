@@ -1,0 +1,144 @@
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\Paginainicio.dll.config
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\Paginainicio.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\Paginainicio.pdb
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\csc.exe
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\csc.exe.config
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\csc.rsp
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\csi.exe
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\csi.exe.config
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\csi.rsp
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.AppContext.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.Console.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.IO.Compression.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.Net.Http.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.ValueTuple.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\vbc.exe
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\vbc.exe.config
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\vbc.rsp
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\Antlr3.Runtime.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\Newtonsoft.Json.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\System.Web.Optimization.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\WebGrease.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\System.Web.Optimization.xml
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\Newtonsoft.Json.xml
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\Antlr3.Runtime.pdb
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\obj\Debug\Paginainicio.csproj.AssemblyReference.cache
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\obj\Debug\Paginainicio.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\obj\Debug\Paginain.E9DD2A80.Up2Date
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\obj\Debug\Paginainicio.dll
+C:\Users\Luciano\source\repos\Practica2\Paginainicio\obj\Debug\Paginainicio.pdb
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\Paginainicio.dll.config
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\Paginainicio.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\Paginainicio.pdb
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\csc.exe
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\csc.exe.config
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\csc.rsp
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\csi.exe
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\csi.exe.config
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\csi.rsp
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.AppContext.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.Console.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.IO.Compression.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.Net.Http.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.ValueTuple.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\vbc.exe
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\vbc.exe.config
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\vbc.rsp
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\Antlr3.Runtime.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\Newtonsoft.Json.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\System.Web.Optimization.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\WebGrease.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\System.Web.Optimization.xml
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\Newtonsoft.Json.xml
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\Antlr3.Runtime.pdb
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\obj\Debug\Paginainicio.csproj.AssemblyReference.cache
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\obj\Debug\Paginainicio.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\obj\Debug\Paginain.E9DD2A80.Up2Date
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\obj\Debug\Paginainicio.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Paginainicio\obj\Debug\Paginainicio.pdb

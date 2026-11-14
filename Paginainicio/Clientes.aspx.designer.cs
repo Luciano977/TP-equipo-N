@@ -11,7 +11,7 @@ namespace Paginainicio
 {
 
 
-    public partial class Contact
+    public partial class Clientes
     {
     }
 }

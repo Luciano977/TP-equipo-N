@@ -1,0 +1,9 @@
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Negocio\bin\Debug\negocio.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Negocio\bin\Debug\negocio.pdb
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Negocio\bin\Debug\dominio.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Negocio\bin\Debug\dominio.pdb
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Negocio\obj\Debug\negocio.dll
+C:\Users\Luciano\Documents\Tecnicatura en Programación\Segundo año\09. Programacion III\Proyectos C#\Practica2\Negocio\obj\Debug\negocio.pdb

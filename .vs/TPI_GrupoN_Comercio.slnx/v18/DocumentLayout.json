@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Luciano\\Documents\\Tecnicatura en Programaci\u00F3n\\Segundo a\u00F1o\\09. Programacion III\\Proyectos C#\\Practica2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BB02FE3-0E39-47B0-B590-F16EE3F3A997}|Paginainicio\\Paginainicio.csproj|c:\\users\\luciano\\documents\\tecnicatura en programaci\u00F3n\\segundo a\u00F1o\\09. programacion iii\\proyectos c#\\practica2\\paginainicio\\clientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{8BB02FE3-0E39-47B0-B590-F16EE3F3A997}|Paginainicio\\Paginainicio.csproj|C:\\Users\\Luciano\\Documents\\Tecnicatura en Programaci\u00F3n\\Segundo a\u00F1o\\09. Programacion III\\Proyectos C#\\Practica2\\paginainicio\\clientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8BB02FE3-0E39-47B0-B590-F16EE3F3A997}|Paginainicio\\Paginainicio.csproj|solutionrelative:paginainicio\\clientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB02FE3-0E39-47B0-B590-F16EE3F3A997}|Paginainicio\\Paginainicio.csproj|C:\\Users\\Luciano\\Documents\\Tecnicatura en Programaci\u00F3n\\Segundo a\u00F1o\\09. Programacion III\\Proyectos C#\\Practica2\\paginainicio\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{8BB02FE3-0E39-47B0-B590-F16EE3F3A997}|Paginainicio\\Paginainicio.csproj|solutionrelative:paginainicio\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BB02FE3-0E39-47B0-B590-F16EE3F3A997}|Paginainicio\\Paginainicio.csproj|C:\\Users\\Luciano\\Documents\\Tecnicatura en Programaci\u00F3n\\Segundo a\u00F1o\\09. Programacion III\\Proyectos C#\\Practica2\\paginainicio\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{8BB02FE3-0E39-47B0-B590-F16EE3F3A997}|Paginainicio\\Paginainicio.csproj|solutionrelative:paginainicio\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB02FE3-0E39-47B0-B590-F16EE3F3A997}|Paginainicio\\Paginainicio.csproj|C:\\Users\\Luciano\\Documents\\Tecnicatura en Programaci\u00F3n\\Segundo a\u00F1o\\09. Programacion III\\Proyectos C#\\Practica2\\paginainicio\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{8BB02FE3-0E39-47B0-B590-F16EE3F3A997}|Paginainicio\\Paginainicio.csproj|solutionrelative:paginainicio\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{8BB02FE3-0E39-47B0-B590-F16EE3F3A997}|Paginainicio\\Paginainicio.csproj|C:\\Users\\Luciano\\Documents\\Tecnicatura en Programaci\u00F3n\\Segundo a\u00F1o\\09. Programacion III\\Proyectos C#\\Practica2\\paginainicio\\clientesmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8BB02FE3-0E39-47B0-B590-F16EE3F3A997}|Paginainicio\\Paginainicio.csproj|solutionrelative:paginainicio\\clientesmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,28 +26,29 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "About.aspx",
-              "DocumentMoniker": "C:\\Users\\Luciano\\Documents\\Tecnicatura en Programaci\u00F3n\\Segundo a\u00F1o\\09. Programacion III\\Proyectos C#\\Practica2\\Paginainicio\\About.aspx",
-              "RelativeDocumentMoniker": "Paginainicio\\About.aspx",
-              "ToolTip": "C:\\Users\\Luciano\\Documents\\Tecnicatura en Programaci\u00F3n\\Segundo a\u00F1o\\09. Programacion III\\Proyectos C#\\Practica2\\Paginainicio\\About.aspx",
-              "RelativeToolTip": "Paginainicio\\About.aspx",
+              "DocumentIndex": 1,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Luciano\\Documents\\Tecnicatura en Programaci\u00F3n\\Segundo a\u00F1o\\09. Programacion III\\Proyectos C#\\Practica2\\Paginainicio\\Site.Master",
+              "RelativeDocumentMoniker": "Paginainicio\\Site.Master",
+              "ToolTip": "C:\\Users\\Luciano\\Documents\\Tecnicatura en Programaci\u00F3n\\Segundo a\u00F1o\\09. Programacion III\\Proyectos C#\\Practica2\\Paginainicio\\Site.Master",
+              "RelativeToolTip": "Paginainicio\\Site.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-11-07T17:42:09.222Z",
-              "IsPinned": true
+              "WhenOpened": "2026-11-14T17:00:59.684Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\Luciano\\Documents\\Tecnicatura en Programaci\u00F3n\\Segundo a\u00F1o\\09. Programacion III\\Proyectos C#\\Practica2\\Paginainicio\\Default.aspx",
-              "RelativeDocumentMoniker": "Paginainicio\\Default.aspx",
-              "ToolTip": "C:\\Users\\Luciano\\Documents\\Tecnicatura en Programaci\u00F3n\\Segundo a\u00F1o\\09. Programacion III\\Proyectos C#\\Practica2\\Paginainicio\\Default.aspx",
-              "RelativeToolTip": "Paginainicio\\Default.aspx",
+              "DocumentIndex": 2,
+              "Title": "ClientesMenu.aspx",
+              "DocumentMoniker": "C:\\Users\\Luciano\\Documents\\Tecnicatura en Programaci\u00F3n\\Segundo a\u00F1o\\09. Programacion III\\Proyectos C#\\Practica2\\Paginainicio\\ClientesMenu.aspx",
+              "RelativeDocumentMoniker": "Paginainicio\\ClientesMenu.aspx",
+              "ToolTip": "C:\\Users\\Luciano\\Documents\\Tecnicatura en Programaci\u00F3n\\Segundo a\u00F1o\\09. Programacion III\\Proyectos C#\\Practica2\\Paginainicio\\ClientesMenu.aspx",
+              "RelativeToolTip": "Paginainicio\\ClientesMenu.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-11-07T18:34:23.58Z"
+              "WhenOpened": "2026-11-14T16:57:37.5Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -63,20 +60,7 @@
               "RelativeToolTip": "Paginainicio\\Clientes.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-11-07T18:02:16.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Site.Master",
-              "DocumentMoniker": "C:\\Users\\Luciano\\Documents\\Tecnicatura en Programaci\u00F3n\\Segundo a\u00F1o\\09. Programacion III\\Proyectos C#\\Practica2\\Paginainicio\\Site.Master",
-              "RelativeDocumentMoniker": "Paginainicio\\Site.Master",
-              "ToolTip": "C:\\Users\\Luciano\\Documents\\Tecnicatura en Programaci\u00F3n\\Segundo a\u00F1o\\09. Programacion III\\Proyectos C#\\Practica2\\Paginainicio\\Site.Master",
-              "RelativeToolTip": "Paginainicio\\Site.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-11-07T18:01:43.434Z",
+              "WhenOpened": "2026-11-14T17:11:01.711Z",
               "EditorCaption": ""
             }
           ]

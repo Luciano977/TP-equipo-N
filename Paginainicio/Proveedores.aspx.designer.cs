@@ -11,7 +11,34 @@ namespace Paginainicio
 {
 
 
-    public partial class Contact
+    public partial class Proveedores
     {
+
+        /// <summary>
+        /// AltaProveedores control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button AltaProveedores;
+
+        /// <summary>
+        /// BajaProveedores control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button BajaProveedores;
+
+        /// <summary>
+        /// ModificarProveedores control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button ModificarProveedores;
     }
 }

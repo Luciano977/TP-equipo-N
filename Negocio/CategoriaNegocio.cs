@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using dominio;
 
-
 namespace negocio
 {
     public class CategoriaNegocio
@@ -13,13 +12,14 @@ namespace negocio
             AccesoDatos datos = new AccesoDatos();
             try
             {
-                datos.setearConsulta("SELECT Id, Descripcion FROM CATEGORIAS");
+                datos.setearConsulta("SELECT IdCategoria, Nombre, Activo FROM Categorias WHERE Activo = 1");
                 datos.ejecutarLectura();
                 while (datos.Lector.Read())
                 {
                     Categoria c = new Categoria();
-                    c.Id = (int)datos.Lector["Id"];
-                    c.Descripcion = (string)datos.Lector["Descripcion"];
+                    c.Id = (int)datos.Lector["IdCategoria"];
+                    c.Nombre = (string)datos.Lector["Nombre"];
+                    c.Activo = (bool)datos.Lector["Activo"];
                     categorias.Add(c);
                 }
                 return categorias;
@@ -28,15 +28,15 @@ namespace negocio
             {
                 datos.cerrarConexion();
             }
-            //return categorias;
         }
+
         public void agregar(Categoria categoria)
         {
             AccesoDatos datos = new AccesoDatos();
             try
             {
-                datos.setearConsulta("INSERT INTO CATEGORIAS (Descripcion) VALUES (@descripcion)");
-                datos.setearParametro("@descripcion", categoria.Descripcion);
+                datos.setearConsulta("INSERT INTO Categorias (Nombre) VALUES (@nombre)");
+                datos.setearParametro("@nombre", categoria.Nombre);
                 datos.ejecutarAccion();
             }
             finally
@@ -50,8 +50,8 @@ namespace negocio
             AccesoDatos datos = new AccesoDatos();
             try
             {
-                datos.setearConsulta("UPDATE CATEGORIAS SET Descripcion = @descripcion WHERE Id = @id");
-                datos.setearParametro("@descripcion", categoria.Descripcion);
+                datos.setearConsulta("UPDATE Categorias SET Nombre = @nombre WHERE IdCategoria = @id");
+                datos.setearParametro("@nombre", categoria.Nombre);
                 datos.setearParametro("@id", categoria.Id);
                 datos.ejecutarAccion();
             }
@@ -66,7 +66,7 @@ namespace negocio
             AccesoDatos datos = new AccesoDatos();
             try
             {
-                datos.setearConsulta("DELETE FROM CATEGORIAS WHERE Id = @id");
+                datos.setearConsulta("UPDATE Categorias SET Activo = 0 WHERE IdCategoria = @id");
                 datos.setearParametro("@id", id);
                 datos.ejecutarAccion();
             }
@@ -75,7 +75,5 @@ namespace negocio
                 datos.cerrarConexion();
             }
         }
-
-
     }
 }

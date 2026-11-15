@@ -13,5 +13,14 @@ namespace Paginainicio
         {
 
         }
+
+        protected void AltaProductos_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("ProductosAlta.aspx");
+        }
+        protected void ModificarProductos_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("ProductosAlta.aspx?modificar=1");
+        }
     }
 }

@@ -153,6 +153,11 @@
     <Content Include="Content\bootstrap-grid.rtl.css.map" />
     <Content Include="Content\bootstrap-grid.min.css.map" />
     <Content Include="Content\bootstrap-grid.css.map" />
+    <Content Include="ProductosAlta.aspx" />
+    <Content Include="Marcas.aspx" />
+    <Content Include="MarcasAlta.aspx" />
+    <Content Include="Categorias.aspx" />
+    <Content Include="CategoriasAlta.aspx" />
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
     <Content Include="Scripts\jquery-3.7.0.js" />
     <Content Include="Scripts\jquery-3.7.0.min.js" />
@@ -262,6 +267,41 @@
     </Compile>
     <Compile Include="ViewSwitcher.ascx.designer.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="ProductosAlta.aspx.cs">
+      <DependentUpon>ProductosAlta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductosAlta.aspx.designer.cs">
+      <DependentUpon>ProductosAlta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Marcas.aspx.cs">
+      <DependentUpon>Marcas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Marcas.aspx.designer.cs">
+      <DependentUpon>Marcas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MarcasAlta.aspx.cs">
+      <DependentUpon>MarcasAlta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MarcasAlta.aspx.designer.cs">
+      <DependentUpon>MarcasAlta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Categorias.aspx.cs">
+      <DependentUpon>Categorias.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Categorias.aspx.designer.cs">
+      <DependentUpon>Categorias.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CategoriasAlta.aspx.cs">
+      <DependentUpon>CategoriasAlta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CategoriasAlta.aspx.designer.cs">
+      <DependentUpon>CategoriasAlta.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

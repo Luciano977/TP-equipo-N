@@ -53,7 +53,9 @@
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/">Home</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/ClientesMenu">Menu de Clientes</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/Productos">Productos</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Proveedores">Proveedores</a></li>
+<li class="nav-item"><a class="nav-link" runat="server" href="~/Marcas">Marcas</a></li>
+<li class="nav-item"><a class="nav-link" runat="server" href="~/Categorias">Categorías</a></li>
+<li class="nav-item"><a class="nav-link" runat="server" href="~/Proveedores">Proveedores</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/About">Acerca de</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact">Contacto</a></li>
                     </ul>
